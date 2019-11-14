@@ -1,7 +1,12 @@
 Laboratory homework:
 1. analogRGBControl
   Description:
-  Hardware used: 3 potentiometers, 1 RGB-led, 3 resistors(2 220 and 1 330 ohm), wires, arduino, connector cable.
+  Hardware used: 3 potentiometers, 1 RGB-led, 3 resistors(330 ohm), wires, arduino, connector cable.
   The code reads the values of 3 potentiometers using the analogRead function 
   and uses the analogWrite function to directly control each of the RGB colors of the led.
     
+2. knockDetector
+  Description:
+  Hardware used: 1 passive buzzer, 1 active buzzer, 1 pushbutton, 2 resistors, wires, arduino, connector cable.
+  The code reads the values of the passive buzzer and after an interval of time it start a sound using the active buzzer. 
+  The pushbutton stops the sound.
