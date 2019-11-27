@@ -1,4 +1,5 @@
 Laboratory homework:
+
 1. analogRGBControl
   Description:
   Hardware used: 3 potentiometers, 1 RGB-led, 3 resistors(330 ohm), wires, arduino, connector cable.
@@ -10,3 +11,9 @@ Laboratory homework:
   Hardware used: 1 passive buzzer, 1 active buzzer, 1 pushbutton, 2 resistors, wires, arduino, connector cable.
   The code reads the values of the passive buzzer and after an interval of time it start a sound using the active buzzer. 
   The pushbutton stops the sound.
+
+3. control4digit7segmentsDisplayWithJoystick
+  Description:
+  Hardware used: 1 4 digit 7-segment display, 1 joystick, 4 resistors, wires, arduino, connector cable.
+  The code reads the values of the joystick. With the value from the X-axis, it cycles through the digits and chooses one to modify.
+  After choosing one (if the button is pressed) it modifies the digit on the current display using the value from the Y-axis.
