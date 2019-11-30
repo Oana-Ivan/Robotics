@@ -17,3 +17,15 @@ Laboratory homework:
   Hardware used: 1 4 digit 7-segment display, 1 joystick, 4 resistors, wires, arduino, connector cable.
   The code reads the values of the joystick. With the value from the X-axis, it cycles through the digits and chooses one to modify.
   After choosing one (if the button is pressed) it modifies the digit on the current display using the value from the Y-axis.
+  
+4. gameMenu
+  Description:
+  Hardware used: 1 LCD, 1 joystick, 1 resistor, 1 potentiometer, wires, arduino, connector cable.
+  The code displays a menu with 3 options: strat the game ("Start"), show the highest score("Score") and change the settings("Settings").
+  It reads the values of the joystick. Using the values from the Y-axis, it cycles through the options and show that the option is selected.
+  If the button is pressed on the lcd displays the suitable elements according to the option selected as follows:
+    If the option is "Start": It shows the numbers of lifes and the level. The level gets incremented by 1 every 2 seconds. After 10 seconds
+    the game is over and it display a message. The score is updated. If the button is pressed again, the lsd displays the main menu.
+    If the option is "Score": It shows the highest score.
+    If the option is "Settings": Using the values from the X-axis, it sets the starting level value.
+  Video: 
