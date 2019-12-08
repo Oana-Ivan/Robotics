@@ -1,9 +1,9 @@
 
-Name of the project: Matrix game
+**Name of the project:** Matrix game
 
-Hardware: 1 8x8 LED matrix,1 MAX7219 Driver, 1 LCD, 1 joystick, 1 buzzer, wires, arduino, connector cable.
+**Hardware:** 1 8x8 LED matrix,1 MAX7219 Driver, 1 LCD, 1 joystick, 1 buzzer, wires, arduino, connector cable.
 
-Description:
+**Description:**
   The project implements a game where the player has to catch food to gain points (represented as a led on the matrix) and 
   run from the bombs (represented as 4 leds on the matrix in the shape of an square). He can move with the joystick on the 
   last line of the matrix. The food and the bombs moves from the first line to the player's line.
@@ -24,5 +24,5 @@ Description:
   - while playing: display the number of lives and the score
   - when the game is over: it display an message  and after it lets the player the choice to try again.
   
-  Schematic:
+  **Schematic:**
     https://drive.google.com/file/d/17Jmdf1YwmRRz_w2g-2Uttom1LtA4_aUl/view?usp=sharing
