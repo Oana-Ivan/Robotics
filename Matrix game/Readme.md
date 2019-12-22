@@ -30,7 +30,7 @@
     https://drive.google.com/file/d/17Jmdf1YwmRRz_w2g-2Uttom1LtA4_aUl/view?usp=sharing
       
   **Assembled hardware:**
-    https://drive.google.com/drive/u/0/folders/1M_rFhEDl3DsDYk1gDREBmD4OsxKsXGbz
+    https://drive.google.com/open?id=1FcLb3VkhtNWJH3ZepUrP6pF5-fXyYizD
       
   **Video:**
     https://youtu.be/PvMlsCZ_Ir0
